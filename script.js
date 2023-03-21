@@ -6,15 +6,15 @@ function load() {
     img.addEventListener('click', e => {
       const card_index = e.currentTarget.dataset.id;
       if (card_index === '0') {
-        const background = 'url(./images/bg01.jpg) 0% 0% / cover';
+        const background = 'url(https://github.com/D-Sup/zigzagApp/blob/main/images/bg01.jpg?raw=true) 0% 0% / cover';
         switchDirection = '0';
         windowEffect(background, e);
       } else if (card_index === '1') {
-        const background = 'url(./images/bg02.jpg) 0% 0% / cover';
+        const background = 'url(https://github.com/D-Sup/zigzagApp/blob/main/images/bg02.jpg?raw=true) 0% 0% / cover';
         switchDirection = '-100';
         windowEffect(background, e, switchDirection);
       } else {
-        const background = 'url(./images/bg03.jpg) 0% 0% / cover';
+        const background = 'url(https://github.com/D-Sup/zigzagApp/blob/main/images/bg03.jpg?raw=true) 0% 0% / cover';
         switchDirection = '0';
         windowEffect(background, e);
       }
