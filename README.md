@@ -4,4 +4,6 @@
 
 ## Preview
 
-![ezgif-4-064e06c398](https://user-images.githubusercontent.com/96939334/226764409-187aec2e-05c0-4134-915a-5a0e32bde62e.gif)
+![ezgif-3-d572719012](https://user-images.githubusercontent.com/96939334/226769742-de3c84c1-47ae-4fe7-aa6e-9fa2a6fcac3b.gif)
+
+![ezgif-3-6de54f9450](https://user-images.githubusercontent.com/96939334/226769750-75426d10-5e6f-460e-afc8-c615a0a74576.gif)
